@@ -1,4 +1,4 @@
-# 1. Good Morning!
+## 1. Good Morning!
 > A: Good morning, Priti!
 B: Good morning, honey.
 B: Where are my keys?
@@ -17,7 +17,7 @@ A: What?
 B: This is salt!
 A: Priti, you are very tired! 
 B: Yes, I need a new cup of coffee… with sugar, not salt!
-# 2. A Date
+## 2. A Date
 > Bea has a date at a restaurant.
 A: Hi! How are you?
 B: Good!
@@ -42,7 +42,7 @@ A: No, my name is Bea…
 A woman enters the restaurant and sees Daniel.
 C: Hi! Are you Daniel? I'm Sarah.
 B: No, sorry. I'm Conor.
-# 3. One Thing
+## 3. One Thing
 > Lucy is with her granddaughter, Lin.
 A: Oh no! I need bread for my sandwich.
 B: Do you need to go to the supermarket?
@@ -62,7 +62,7 @@ A: Hmm… I have an idea.
 A: Here is some money, Lin.
 B: What?!
 A: I want one thing from the supermarket: bread.
-# 4. Big Family
+## 4. Big Family
 > Shelly is meeting Anna's family.
 A: Anna! My favorite daughter!
 B: Mom, you only have one daughter!
@@ -82,7 +82,7 @@ B: Mother!
 A: Oh! I have two daughters now…
 A: Welcome to the family, Shelly!
 C: Thank you!
-# 5. The Red Jacket
+## 5. The Red Jacket
 > Lily is in a store with her friend, Zari.
 A: This store is expensive.
 B: Yes…
@@ -104,7 +104,7 @@ B: And you are my best friend!
 A: Yes, I am…
 B: And you can buy—
 A: A cheap jacket for you.
-# 6. The Passport
+## 6. The Passport
 > Vikram and his wife, Priti, are at the airport.
 A: Oh no. Where is my passport?
 A: It is not here!
@@ -123,7 +123,7 @@ B: Your passport is not in the taxi.
 B: Your passport is in your hand.
 A: Oh…
 A: Thank you, my love.
-# 7. Honeymoon
+## 7. Honeymoon
 > Shelly is in a taxi.
 A: Good morning.
 B: Hello, I need to go to the airport, please.
@@ -148,7 +148,7 @@ C: I love you.
 B: I love you too.
 C: I want to go to California with you!
 A: Have a nice honeymoon!
-# 8. Doctor Eddy
+## 8. Doctor Eddy
 > Eddy is at the supermarket.
 A woman starts talking to Eddy.
 A: Hello!
@@ -168,7 +168,7 @@ A: Please help the man! He is very sick!
 B: Uh-oh!
 Eddy sees a woman. He runs and talks to her.
 B: Hello, are you a doctor?
-# 9. A New Coat
+## 9. A New Coat
 > A woman talks to Vikram in a store.
 A: Hello!
 B: Hi.
@@ -188,7 +188,7 @@ A: Thank you! You are good at your job!
 A: Where do I pay for the coat?
 B: I do not know.
 B: I do not work here.
-# 10. The New Student
+## 10. The New Student
 > Zari and Lily are sitting together on the school bus.
 A: Lily, there is a new student in our class!
 A: His name is Miguel.
@@ -209,7 +209,7 @@ B: I am good, thanks.
 B: Miguel, this is my friend, Zari.
 B: She likes your… shoes.
 A: Oh, um, hi, Miguel.
-# 11. Junior's Question
+## 11. Junior's Question
 > A: Dad, I have a question.
 B: Sorry, Junior, I am busy now.
 B: A football game is on TV.
@@ -232,7 +232,7 @@ B: Sorry, Junior…
 B: It is a good football game!
 B: OK… what do you need?
 B: Junior? Where are you?
-# 12. To the Station!
+## 12. To the Station!
 > Oscar gets in a taxi.
 His friend, Lin, is driving the taxi.
 A: Lin! You are driving a taxi!
@@ -260,7 +260,7 @@ B: I do not want to drive a taxi.
 B: It is a difficult job.
 Lin gets out of the taxi.
 B: Good night, Oscar!
-# 13. The Vegetarian
+## 13. The Vegetarian
 > Vikram is reading a menu in a nice restaurant.
 A: Welcome!
 B: Hello. I have a question about the menu.
@@ -280,7 +280,7 @@ A: We have fries…
 B: OK. Fries are fine.
 A: Fries, perfect. And… a burger?
 B: No meat, please!
-# 14. More Space
+## 14. More Space
 > Junior's friend, Andy, is talking to his dad.
 A: I need a job, Dad.
 B: Andy, you are eight.
@@ -303,7 +303,7 @@ B: What?! Mom?! A baby?!
 A: Are you OK, Dad?
 B: We need a new house and a new car!
 B: We do need more space!
-# 15. Vacation Clothes
+## 15. Vacation Clothes
 > Lucy is in a store.
 A: Hi, can you help me?
 A: I need new clothes for my vacation!
@@ -323,7 +323,7 @@ A: No! A yellow hat!
 Lily gives Lucy a yellow hat.
 A: Perfect! Now I'm ready for my vacation!
 B: Now I need a vacation.
-# 16. The Reservation
+## 16. The Reservation
 > Bea and Lin go to a restaurant.
 A: Wow! Nice restaurant!
 B: Happy Birthday, Bea!
@@ -353,7 +353,7 @@ B: Bea, your birthday is important…
 A: The day is important.
 A: The restaurant is not.
 B: OK, good… I am very hungry!
-# 17. I Want a Dog
+## 17. I Want a Dog
 > Eddy and Junior are eating in a park.
 A: Dad, I want a dog.
 B: Junior, dogs are not easy.
@@ -371,7 +371,7 @@ B: Junior! Why is a dog under the table?
 A: He likes me! I see this dog at the park every day.
 B: Is he… eating your burger and fries?
 A: Yes! Dogs are easy, Dad!
-# 18. What Do You Want？
+## 18. What Do You Want？
 > Oscar walks into a clothes store.
 He sees his student, Zari. She works in the store.
 A: Zari! Oh good! I am happy to see you.
@@ -389,7 +389,7 @@ B: Pants! You need pants!
 A: No! I do not need clothes!
 A: I need to know…
 A: Where is the restroom?
-# 19. Coffee, Please!
+## 19. Coffee, Please!
 > Eddy is in a restaurant with his son, Junior.
 A: Hi, Eddy! What do you want today?
 B: I want a big cup of coffee, please.
@@ -408,7 +408,7 @@ A: OK… you want a milkshake?
 C: Yes, please!
 B: Oh, I want a milkshake too…
 B: Two milkshakes, please!
-# 20. Lily's Clothes
+## 20. Lily's Clothes
 > Zari is at Lily's house. She is looking at Lily's clothes.
 A: You have a lot of purple clothes.
 B: Purple is my favorite color.
@@ -423,7 +423,7 @@ A: Here! They are from a new store in the city.
 B: Uhh… OK.
 A: The color red is perfect for you.
 B: Does the store have purple sunglasses?
-# 21. At the Supermarket
+## 21. At the Supermarket
 > Lin and Bea are at the supermarket.
 A: I do not want to cook dinner.
 B: Cooking is fun, Lin!
@@ -444,7 +444,7 @@ A: We need a lot of things.
 B: Yes… And I'm very tired now.
 A: Do you want to eat at a restaurant?
 B: Ooh! Yes!
-# 22. The Perfect Girlfriend
+## 22. The Perfect Girlfriend
 > Lin is at a train station.
 She sees her friend Martin.
 He is with a woman.
@@ -464,7 +464,7 @@ B: Girlfriend?! No, Susan is my mother!
 A: Whoops…
 B: Haha, it is OK.
 A: Uh… My train is here now! Bye!
-# 23. Ticket to Spain
+## 23. Ticket to Spain
 > Vikram talks to his friend, Bea.
 A: Hello, Bea! How are you?
 B: Great! I am excited for my trip to Spain!
@@ -481,7 +481,7 @@ A: Wow, you are ready!
 B: Yes, but I need one thing.
 A: What do you need?
 B: I need money… for a ticket to Spain.
-# 24. Math Help
+## 24. Math Help
 > Junior goes to Zari's apartment.
 A: Zari! I need help!
 B: What do you need?
@@ -497,7 +497,7 @@ B: Junior, you do not have your book. How can I help you?
 A: You can go to my school.
 A: And you can get my book.
 A: And I can play my video game!
-# 25. Can I Have It？
+## 25. Can I Have It？
 > Junior and Eddy are at the mall.
 A: Dad! I need a new video game!
 B: You don't need a new video game.
@@ -511,7 +511,7 @@ B: No, we are going to Vikram's house.
 A: Ugh! His house is boring!
 B: But his TV is big, and I need to watch the football game.
 A: You don't need to watch the game, Dad. You want to watch it.
-# 26. Find My Girlfriend
+## 26. Find My Girlfriend
 > Bea is at the airport.
 She talks to the man at the desk.
 A: Hello! Can I help you?
@@ -532,7 +532,7 @@ B: Oh. I don't know.
 A: You don't know your girlfriend's name?
 B: I don't have a girlfriend yet.
 B: Can you help me find one?
-# 27. The Basketball Player
+## 27. The Basketball Player
 > Vikram and Priti are shopping.
 A: What do we need from the supermarket?
 B: Well, we have eggs, milk, and beans… We need—
@@ -554,7 +554,7 @@ Vikram drops the eggs.
 C: Hey, you!
 B: Me?
 C: I really like your shoes.
-# 28. Two Tickets Please!
+## 28. Two Tickets Please!
 > Junior is at the airport.
 He talks to the woman at the desk.
 A: Can I help you?
@@ -573,7 +573,7 @@ B: Four hundred dollars.
 C: How much are two tickets?
 B: Eight hundred dollars.
 C: Right! You're great at math! Now go to school.
-# 29. Thanks？
+## 29. Thanks？
 > Zari gives Lily a box.
 A: What's this?
 B: Open the box!
@@ -594,7 +594,7 @@ B: You always forget my birthday.
 B: Now you can give me this shirt!
 A: Wow, thank you.
 B: No, no. Thank you.
-# 30. The Dance Class
+## 30. The Dance Class
 > Eddy walks into Elizabeth's class.
 A: Hi!
 A: Today we're learning to dance!
@@ -614,7 +614,7 @@ B: Yes.
 A: Really?
 B: Yes, I'm in the wrong room.
 B: But this is more fun than a cooking class!
-# 31. You're Not Mary
+## 31. You're Not Mary
 > Junior comes home from school.
 There is a woman in the living room.
 A: Oh! You're not Mary!
@@ -636,7 +636,7 @@ A: She's not happy about Mary.
 C: Oh no!
 C: Wait! Penelope! Mary is our bird!
 D: Squawk! Goodbye, Penelope!
-# 32. Junior's Exercise
+## 32. Junior's Exercise
 > Junior is playing video games.
 A: Do you want to exercise, Junior?
 B: No. I want to play video games.
@@ -657,7 +657,7 @@ Junior leaves. He comes back with Eddy's jacket.
 A: Great, now we can go!
 B: I'm tired.
 A: Why? Too much exercise?
-# 33. The Garden
+## 33. The Garden
 > Vikram visits his sick grandmother in the hospital.
 A: Good morning, Grandma!
 A: How do you feel today?
@@ -676,7 +676,7 @@ A: And some flowers from your garden!
 B: My plants and my flowers!
 A: Now your garden is here!
 B: I'm so happy! Thank you very much, Vikram!
-# 34. The Perfect Person
+## 34. The Perfect Person
 > Bea meets her friend, Eddy, for coffee.
 A: Good morning, Bea!
 B: How are you, Eddy?
@@ -703,7 +703,7 @@ A: What's her name?
 B: Doctor Santos.
 B: You need to go to her office now…
 B: …because you're sick!
-# 35. Need Help？
+## 35. Need Help？
 > Lin is walking on a road.
 She sees a man near his car.
 He looks unhappy.
@@ -727,7 +727,7 @@ B: What?
 A: I work there on weekends.
 A: I'm a mechanic!
 A: So… do you need help?
-# 36. Junior's Choice
+## 36. Junior's Choice
 > Junior is getting his lunch at school.
 A: Hello, Ms.  Linda! I'm ready to eat lunch!
 B: Hello, Junior. We have fish for lunch today.
@@ -744,7 +744,7 @@ A: I don't know!
 B: Junior!
 A: Oh! Yes, Ms.  Linda?
 B: Here! Take the fries and the salad.
-# 37. I Really Want a Dog
+## 37. I Really Want a Dog
 > A: Dad, we need to talk. I really want a dog.
 B: Junior, a dog is a lot of work…
 A: I can work! I'm very responsible.
@@ -762,7 +762,7 @@ B: You can have a dog!
 A: No, thank you! I don't want a dog now.
 B: But Junior, I don't understand…
 A: I'm tired! I don't want to be responsible!
-# 38. The Model
+## 38. The Model
 > Eddy walks into Oscar's classroom.
 A: Hi, can I come in?
 B: I need to teach my art class now.
@@ -783,7 +783,7 @@ B: My art class starts in one minute. I need a model.
 B: Models are quiet.
 A: Ohhh, I'm bored.
 B: Shh.
-# 39. Bad Painting
+## 39. Bad Painting
 > Oscar and his friend, Lucy, are sitting in the park.
 Oscar is painting Lucy.
 A: OK, you can look at the painting now! Do you like it?
@@ -802,7 +802,7 @@ A man stops and looks at the painting.
 C: That's really good! Can I buy it for one hundred dollars?
 Lucy takes the painting.
 B: It's my painting, and it's two hundred dollars.
-# 40. Take My Photo
+## 40. Take My Photo
 > Zari stops her art teacher, Oscar, outside the classroom.
 A: Can you take my photo, please?
 B: Why?
@@ -830,7 +830,7 @@ A: I want you to take a photo of me!
 A: Oh no! Is it already online?!
 B: Oops.
 A: Oh… look! Fifty people like your photo!
-# 41. A New Sport
+## 41. A New Sport
 > Eddy and Junior are at a store.
 A: You want to play a new sport! That's exciting!
 A: Do you want to play basketball?
@@ -851,7 +851,7 @@ B: Yes… Is it a problem?
 A: No! Dancing is a sport too!
 Eddy starts to dance in the store.
 B: Dad, please stop dancing.
-# 42. Lucy and the Dinosaurs
+## 42. Lucy and the Dinosaurs
 > Lucy opens her apartment door.
 A: Hello, Junior!
 B: Hello! Can you help me write a report for school?
@@ -868,7 +868,7 @@ A: Why do you want to talk to me?
 B: Because you are very old.
 B: You know a lot of dinosaurs, right?
 A: Goodbye, Junior.
-# 43. Where Are My Keys？
+## 43. Where Are My Keys？
 > Lin is with her grandmother, Lucy.
 A: We have a reservation at a nice restaurant tonight!
 A: But we need to leave now!
@@ -888,7 +888,7 @@ B: I'm sorry.
 A: That's OK. I can cook dinner.
 Lucy opens the refrigerator and looks inside.
 A: Oh! Here are your keys!
-# 44. Dirty Apartment
+## 44. Dirty Apartment
 > Bea goes to her friend Sarah's apartment.
 A: Hi, Sarah, how are you?
 B: I'm terrible!
@@ -905,7 +905,7 @@ A: These are all your clothes!
 A: Is that your old cheese, too?!
 B: Yes! I never clean, and my roommate always complains!
 B: She's terrible!
-# 45. The Monkeys
+## 45. The Monkeys
 > Eddy and Junior are at the zoo.
 They are looking at the lions.
 A: Dad, can we see the monkeys now?
@@ -920,7 +920,7 @@ A: Can you run faster, Dad?
 B: Wait. Junior, why are we running? You hate running!
 A: I hate running, but I love ice cream!
 A: And there's an ice cream shop next to the monkeys!
-# 46. Good Art
+## 46. Good Art
 > Eddy and his friend Oscar are at an art museum.
 Eddy looks at a painting of a dog.
 A: This is my favorite painting in the museum!
@@ -939,7 +939,7 @@ A: I don't understand art.
 A janitor walks into the room. He starts eating the sandwich.
 B: Excuse me! You can't eat the art!
 C: Uh, this isn't art. This is my lunch.
-# 47. I Feel Sick
+## 47. I Feel Sick
 > A: Dad! I feel sick!
 B: Oh no!
 Eddy touches Junior's head.
@@ -964,7 +964,7 @@ C: Junior... are you here because I always give you candy?
 A: Umm… Yes.
 B: Junior!
 A: So... Can I have my candy now?
-# 48. I Want a Pizza
+## 48. I Want a Pizza
 > Lin is walking home.
 She is carrying two pizzas.
 She sees Oscar on the street.
@@ -985,7 +985,7 @@ Oscar makes a call on his phone.
 A: Hi, Lucy, it's Oscar. Do you have plans for dinner?
 C: I'm having pizza with Lin! Do you want to eat with us?
 A: Thanks! That's a great idea!
-# 49. The Diary
+## 49. The Diary
 > Zari and Lily are at school.
 A: Lily, I'm so scared! I can't find my diary!
 B: OK?
@@ -1008,7 +1008,7 @@ C: So, do you want to see a movie with me on Friday?
 A: Wow, yes!
 Miguel smiles at Zari. He leaves.
 A: Lily, this is a great day!
-# 50. Oscar's Flowers
+## 50. Oscar's Flowers
 > Oscar is in his garden. He sees his co-worker, Eddy.
 A: Eddy! Why are you wearing a nice shirt today? You never wear nice shirts.
 B: I'm meeting my date now!
@@ -1028,7 +1028,7 @@ B: No! I'm allergic to flowers!
 A: Oh no. Your face is very red.
 B: Ugh. I feel terrible…
 A: Well, have fun on your date!
-# 51. Always Late
+## 51. Always Late
 > Lin and Lucy are watching TV.
 A: Oh, it's six thirty! 
 B: Oh no! Bea's birthday party is in half an hour!
@@ -1044,7 +1044,7 @@ B: Bea! I'm on time!
 B: Wait, where are all the people? It's seven o'clock!
 C: Your invitation says seven p.m. because you're always late.
 C: My party starts at eight p.m.
-# 52. Day Off
+## 52. Day Off
 > Vikram is making tea in the kitchen.
 His wife, Priti, walks into the room.
 A: Good morning, Vikram!
@@ -1061,7 +1061,7 @@ A: It's so early. What can I do now?
 B: You can sit and relax.
 Priti sits for a minute.
 A: Relaxing is boring. I'm going to work.
-# 53. Birthday Plan
+## 53. Birthday Plan
 > Eddy is sleeping. Junior runs into his room. 
 A: Dad! Dad!
 B: What? Huh? Oh, good morning, Junior.
@@ -1081,7 +1081,7 @@ B: Wait… it's only January. Your birthday is in May, Junior!
 A: Yes, I know. I can't wait! 
 A: But can we still have ice cream today, Dad?
 B: Aaah… Yes, Junior.
-# 54. What's Your Name？
+## 54. What's Your Name？
 > Lily and Zari are at a party.
 A: I'm so happy we're here! I want to dance!
 B: I do not dance.
@@ -1111,7 +1111,7 @@ A: Hi! I'm Zari!
 C: Nice to meet you, Zari.
 A: What's your name? Lily doesn't remember it!
 B: Zari?!
-# 55. An Interesting Conversation
+## 55. An Interesting Conversation
 > Bea is sitting on a bench in the park.
 A: Excuse me, can I sit here?
 B: Yes.
@@ -1134,7 +1134,7 @@ B: Huh? Who is Leo?
 C: My boyfriend, Leo. He is sitting next to you!
 B: Oh no!
 A: Nice to meet you, Bea.
-# 56. Not For Kids
+## 56. Not For Kids
 > Zari is watching Junior because Eddy is at work.
 A: Zari! Can we play your video game!?
 B: I have to finish cleaning before your dad comes home.
@@ -1152,7 +1152,7 @@ B: Wow, good job! You are an adult.
 A: Now can we play your video game!?
 B: Oh no! It's nine o'clock. You need to go to bed!
 A: But I'm an adult! Adults go to bed late.
-# 57. Too Dangerous
+## 57. Too Dangerous
 > A: I can't do it, Lily.
 B: Don't worry, Zari.
 A: I'm afraid! This is too dangerous!
@@ -1174,7 +1174,7 @@ A: And my friend, Lily, is coming with me!
 A: Lily? Where are you going?
 B: Sorry, Zari! I'm not going on this roller coaster!
 B: It's too dangerous!
-# 58. Drawing in the Park
+## 58. Drawing in the Park
 > Lucas goes to the park with his dog every day.
 And, every day, he sees Lily drawing in the park.
 One day, he decides to talk to her.
@@ -1197,7 +1197,7 @@ A: Umm, well… I think you're beautiful too!
 B: Uh, no… I'm not drawing you.
 A: Oh…
 B: I'm drawing your dog. He's beautiful. Look!
-# 59. The Art Homework
+## 59. The Art Homework
 > Lily and Zari are in Oscar's art class.
 A: Lily, can I see your homework?
 B: I… don't want to show it to you.
@@ -1219,7 +1219,7 @@ Oscar leaves. Zari sees Lily's painting.
 C: Your painting is blank, Lily.
 B: I know.
 C: You always forget to do your homework.
-# 60. Pizza Night
+## 60. Pizza Night
 > A: Junior! What do you want for dinner?
 B: I want pizza. I'm eight years old… I always want pizza.
 A: Cool! We can make a pizza!
@@ -1241,7 +1241,7 @@ A: In two hours.
 Junior looks at Eddy.
 A: I'll order a pizza.
 B: You're a great dad.
-# 61. The Big Game
+## 61. The Big Game
 > Bea arrives at her friend Justin's house.
 A: Are you ready?
 A: This is the most exciting soccer game of the year!
@@ -1268,7 +1268,7 @@ A: And when you're a doctor…
 A: … you're going to buy the soccer tickets, right?
 B: Of course, Bea.
 A: Now where's the coffee?
-# 62. Making Breakfast
+## 62. Making Breakfast
 > Eddy is making breakfast for Junior.
 A: Hey, Dad! What are you doing?
 B: Good morning, Junior! I'm making a big breakfast for you!
@@ -1288,7 +1288,7 @@ A: Dad… it's one o'clock!
 Eddy looks at his watch. 
 B: Oh no… making breakfast takes a long time. 
 A: But now we can make lunch!
-# 63. Look at My Painting
+## 63. Look at My Painting
 > Eddy walks into Oscar's apartment.
 Eddy is carrying a painting.
 A: What is that, Eddy?
@@ -1313,7 +1313,7 @@ B: Yes?!
 A: Really good.
 B: Yes! Cool! I'm a good artist!
 A: Now please leave.
-# 64. Taxi Ride
+## 64. Taxi Ride
 > Bea is in a taxi. She is looking at the map on her phone.
 A: Turn left at the end of the street, please.
 B: I don't need to turn for three more miles.
@@ -1332,7 +1332,7 @@ A: I think my directions are wrong.
 A: I'm so sorry.
 B: Do you want to use my directions?
 A: Yes, please…
-# 65. An Emergency
+## 65. An Emergency
 > Junior is at a pool with his father, Eddy.
 He runs to the lifeguard.
 A: Help! Lifeguard!
@@ -1352,7 +1352,7 @@ B: Excuse me, sir! I'm coming to help you!
 The lifeguard runs to Eddy with a big, red towel.
 C: What is it?!
 B: Sir, please wear this towel. It's an emergency.
-# 66. Love Letter
+## 66. Love Letter
 > Zari is babysitting her neighbor, Junior. They are at the library.
 A: What are you doing, Junior?
 B: Um… I'm writing a letter.
@@ -1369,7 +1369,7 @@ B: Yes!
 A: Aw, Junior! You love me? Sorry, but you're too young for me.
 B: No! I don't love you… I love your best friend, Lily!
 B: Can you give her my letter?
-# 67. Vikram's Plants
+## 67. Vikram's Plants
 > Eddy meets his neighbor Vikram at the airport.
 A: Hi, Eddy! Thanks for driving me home.
 B: Of course! But… I need to tell you something.
@@ -1388,7 +1388,7 @@ A: Three times every day?! I told you to water the plants three times every week
 B: Oh. Sorry.
 B: But look! This plant isn't brown! It's green!
 A: Eddy, that's a plastic plant.
-# 68. The Cake
+## 68. The Cake
 > Lin goes to her kitchen. She looks in the fridge.
 A: Where is my cake?
 Lin sees her grandmother, Lucy, at the table.
@@ -1408,7 +1408,7 @@ B: No! I didn't eat it!
 A: OK. Sorry. I'll make another… chocolate cake.
 B: Chocolate? But your cake was vanilla!
 A: Ha! Yes, it is vanilla! You did eat my cake!
-# 69. The Promotion
+## 69. The Promotion
 > Bea's boss walks past Bea's desk.
 A: Hi, Bea. Can we talk about Carl?
 B: OK…
@@ -1429,7 +1429,7 @@ B: What? No! He's great!
 A: You said he is always late.
 B: Um… it was a joke!
 B: Please promote him and send him to a different office!
-# 70. The Ex-Girlfriend
+## 70. The Ex-Girlfriend
 > Lin is shopping with her friend, Bea.
 A: Oh, wow, that's Jamie!
 B: Who is Jamie?
@@ -1457,7 +1457,7 @@ C: Uh, hello. I saw you waving at me.
 C: Do I know you?
 B: No, but do you know where to buy glasses?
 B: My friend needs a new pair!
-# 71. The Song
+## 71. The Song
 > Bill and Harry are in a restaurant.
 They hear a song.
 A: I love this song!
@@ -1480,7 +1480,7 @@ B: Yes, I do.
 Harry gets up and looks at Bill.
 B: Do you want to dance with me?
 A: Of course.
-# 72. Send an Email
+## 72. Send an Email
 > Lin and her grandmother, Lucy, are visiting Seattle. They are in a coffee shop.
 A: It's nice to be here again.
 B: When did you live in Seattle, Grandma?
@@ -1501,7 +1501,7 @@ A: I never got your letters. I was sailing around the world.
 C: Now you're here! We can finally be together!
 A: Actually, I'm going to a museum with my granddaughter now.
 A: Next time, send an email!
-# 73. A Great Teacher
+## 73. A Great Teacher
 > Jennifer is outside of the school principal's office.
 A: OK, I'm going to tell the principal that I want to leave this job.
 A: I'm a bad teacher.
@@ -1525,7 +1525,7 @@ A: Sometimes I worry that I'm a bad teacher.
 B: Yes, I know, Jennifer.
 A: How do you know?
 B: Well, you were talking very loudly outside of my classroom.
-# 74. Car Problem
+## 74. Car Problem
 > Eddy is standing on the street.
 He closes the trunk of a car.
 Vikram walks past Eddy.
@@ -1542,7 +1542,7 @@ B: But I put gas in the car ten minutes ago.
 A: What?! Where?
 B: Right here.
 A: Oh no, Eddy… That's the trunk!
-# 75. The Fishing Trip
+## 75. The Fishing Trip
 > Bea is visiting her dad. They are fishing.
 A: Dad, I hate this.
 B: Why?
@@ -1566,7 +1566,7 @@ B: You moved to a new city and now we don't talk much.
 A: We don't need to go fishing to talk about things.
 B: That's good…
 B: Because I think fishing is boring too!
-# 76. Free Pizza
+## 76. Free Pizza
 > Lin is walking home one day.
 It starts raining.
 A: Oh no!
@@ -1592,7 +1592,7 @@ C: That's interesting…
 C: … because I'm Mrs. Smith.
 C: And you're not my secretary!
 A: Oops! I need to go now! Nice to meet you!
-# 77. My Favourite Band
+## 77. My Favourite Band
 > Lily and Zari are in class.
 A: Hey, Lily? Can you help me with something?
 B: I don't know. What is it?
@@ -1607,7 +1607,7 @@ A: OK, OK! I'm going to the mall to see my favorite band, The City Boys.
 B: Ugh, no, I can't help you.
 A: Yeah, you're right. Lying is bad…
 B: No, I can't help you because The City Boys are a terrible band.
-# 78. The Last Seat
+## 78. The Last Seat
 > Oscar and Eddy get on the bus.
 A: Wow, I am very tired.
 B: I'm tired too. I had a busy day.
@@ -1626,7 +1626,7 @@ A: I'm not going to sit down, Oscar.
 B: Then I'm not going to sit down either!
 A teenager gets on the bus.
 C: Cool, an empty seat! I'll sit down!
-# 79. Recycling Is Important
+## 79. Recycling Is Important
 > Junior is helping Zari with an art project for school.
 A: My art project is about recycling.
 B: Recycling is very important!
@@ -1646,7 +1646,7 @@ A: Junior, was there juice in all of those bottles?
 B: Yes, of course! I poured all of the juice in the kitchen sink.
 A: Why?
 B: Our project will save the planet!
-# 80. Eddy's Breakup
+## 80. Eddy's Breakup
 > Junior sees his father, Eddy, crying.
 A: What's wrong, Dad?
 B: Chloe broke up with me, and I don't know why.
@@ -1668,7 +1668,7 @@ A: Oh no.
 A: I think I know why she broke up with you.
 B: Why?
 A: Dad, I love you, but you're a terrible cook.
-# 81. Thanks, Mom
+## 81. Thanks, Mom
 > Zari opens a gift from her mother.
 A: What's this?
 B: It's a surprise! Open it.
@@ -1693,7 +1693,7 @@ B: We can all wear our new sweaters tomorrow! I'm so excited!
 A: Uh…
 B: What's wrong?
 A: I don't think I like this sweater anymore.
-# 82. You Can Talk？
+## 82. You Can Talk？
 > Lily just got home from her job at the clothing store.
 A: I'm so tired of customers complaining all day. 
 She sits down. Her dog jumps up on the sofa.
@@ -1712,7 +1712,7 @@ A: You don't even sleep outside!
 Suddenly, Lily wakes up.
 She looks at her dog sleeping on the floor and laughs.
 A: I think my job is giving me bad dreams!
-# 83. Camping!
+## 83. Camping!
 > Vikram and his wife, Priti, are camping. They're sitting in their tent.
 A: I want to check my email…
 B: We agreed not to use our phones during this trip, remember?
@@ -1740,7 +1740,7 @@ B: What are you doing? We agreed not to use our phones.
 Priti makes a call.
 A: Hi, I'd like to order one pizza!
 B: Actually… order two! 
-# 84. Getting Older
+## 84. Getting Older
 > Bea is at the gym with her friend, Eddy.
 When she starts exercising, her knee makes a noise.
 A: What was that?!
@@ -1761,7 +1761,7 @@ A: Can you show me that leg exercise again?
 B: You don't remember? I just showed it to you.
 A: I forgot… Is that because I'm getting older too?
 B: Maybe, but I don't know any exercises for your brain.
-# 85. Going to Rome
+## 85. Going to Rome
 > Zari runs to Lily in the hall at school.
 A: Lily, I have a problem.
 B: Zari, for the last time, it's OK if you don't get a perfect grade!
@@ -1784,7 +1784,7 @@ B: Zari… I think he's asking those questions to everyone in our class.
 A: What?!
 B: Those questions are from his textbook.
 B: He's just practicing his English.
-# 86. Second Date
+## 86. Second Date
 > Bea and Jim are walking home after their first date.
 A: Do you want to have dinner again soon?
 B: No. Honestly, this was a terrible date.
@@ -1810,7 +1810,7 @@ B: Great idea!
 A: It'll be a fun second date.
 B: Oh, I don't want to have a second date.
 B: But our dogs can still play together!
-# 87. Can I take a Picture？
+## 87. Can I take a Picture？
 > Lucy is walking down the street.
 She sees an attractive young man.
 A: Wow! Are you that famous actor?
@@ -1837,7 +1837,7 @@ A: Maybe. Were you in anything else?
 B: I've been in fifty movies!
 Lucy deletes the picture.
 A: If you see that actor from "Sad Cats Can't Dance," can you take a picture for me?
-# 88. The Letter
+## 88. The Letter
 > Zari and Lily walk past a bookstore.
 A: Let's go inside! I love old books.
 B: That's why we're friends.
@@ -1863,7 +1863,7 @@ C: Yes!
 A: Wow! Is your name Katherine or Meg?
 The woman smiles.
 C: My name is Gabriela.
-# 89. Too Fast
+## 89. Too Fast
 > Bea and Lin are running on a trail.
 A: Come on, Lin! Run faster!
 B: I'm thirsty, and my legs hurt!
@@ -1884,7 +1884,7 @@ A: Run slower? I don't think that's possible.
 B: Or maybe I should stop running!
 C: No, you can still run.
 C: But you should stop running with your friend.
-# 90. Gray Hair
+## 90. Gray Hair
 > Kay and her husband, Jeff, are getting ready in the bathroom.
 A: Oh no!
 B: What's wrong, my love?
@@ -1908,7 +1908,7 @@ B: What?
 A: Well, one day, you'll lose all of your hair.
 A: Everyone gets old, Jeff…
 B: Oh no…
-# 91. Dress Shopping
+## 91. Dress Shopping
 > Lily is shopping for a pink dress with her mom.
 A: Do we really have to go to Aunt Betty's wedding?
 B: Yes! She's finally getting married!
@@ -1927,7 +1927,7 @@ A: Mom, wait! You said everyone is wearing a black suit or a pink dress, right?
 Lily shows her mom a small black suit.
 A: You hate it, right?
 B: Actually, I think it will look great on you!
-# 92. Falling Elevator
+## 92. Falling Elevator
 > Lin and Bea are in an elevator.
 Suddenly, the elevator makes a strange sound.
 A: Did you hear that?
@@ -1956,7 +1956,7 @@ A: So what are you going to do today?
 B: Nothing. I'll probably watch TV. What about you?
 A: Me too. Bye.
 B: See you later.
-# 93. A Wedding Story
+## 93. A Wedding Story
 > Lucy and Lin are at a family wedding.
 A: This is a beautiful wedding!
 B: I know! This hotel is amazing!
@@ -1979,7 +1979,7 @@ B: Be quiet! He's coming here.
 A: Wait. That's not Paul.
 B: You're right! I think we're at the wrong hotel! Let's go.
 A: No, let's stay here. It's time for dessert!
-# 94. The Manager's Office
+## 94. The Manager's Office
 > Bea was asked to go to the manager's office.
 A: Sit down. I'd like to talk to you about something.
 B: Did you get that report I put on your desk?
@@ -2003,7 +2003,7 @@ A: Nice to meet you, Bea.
 B: Can I give you my resume?
 A: If I look at your resume, will you leave?
 B: OK!
-# 95. Grandmother's Recipe
+## 95. Grandmother's Recipe
 > Vikram walks into Eddy's apartment.
 A: Hi Vikram, where's Priti?
 B: She's at work, but she'll be here soon.
@@ -2025,7 +2025,7 @@ B: OK. Then we need your phone.
 Later, Eddy, Vikram, and Priti are eating dinner.
 C: Wow, Eddy, this is so good! It tastes just like my grandmother's recipe!
 A: Thanks! I ordered it from the restaurant myself!
-# 96. A Love Story
+## 96. A Love Story
 > Lin is looking at pictures of her grandfather with Lucy.
 A: How did Grandpa ask you to marry him?
 B: Well, I remember we were driving through the city. He said he had a surprise.
@@ -2045,7 +2045,7 @@ B: The documents in the suitcase.
 A: I don't understand…
 B: Oh. I'm telling you the wrong story. This was when Grandpa and I were spies.
 B: Forget I said anything.
-# 97. Horoscopes Aren't Real
+## 97. Horoscopes Aren't Real
 > Eddy and Bea are in a coffee shop. Bea is reading the newspaper.
 A: Hmm, this is interesting…
 B: What?
@@ -2069,7 +2069,7 @@ A: Oh, yeah? Then listen to this.
 A: Your horoscope says:
 A: "You will have a very good day today if you let a friend help you."
 B: OK, Bea. I'll wear your sweater.
-# 98. The Sandwich Thief
+## 98. The Sandwich Thief
 > Eddy is in the kitchen at the office where he works.
 He is talking to his new colleague, Elena.
 A: Ugh! It happened again!
@@ -2095,7 +2095,7 @@ B: Well, I have a delicious turkey sandwich today.
 A: Really? You don't usually bring your lunch.
 B: Well, I'm allergic to bananas.
 A: Wait… It was you!
-# 99. The Breakup
+## 99. The Breakup
 > Lucy is leaving for a date. Her granddaughter Lin is watching TV.
 A: Say hello to Sam for me!
 B: It will be a short dinner. I'm going to break up with him.
@@ -2119,7 +2119,7 @@ C: So… we're staying together?
 B: Yes! When are you leaving?
 C: Saturday.
 B: Great! I'll drive you to the airport!
-# 100. Pasta Problem
+## 100. Pasta Problem
 > Bea is eating pasta at a restaurant in Rome. A waiter walks past her table.
 A: Excuse me! There's a problem with my pasta.
 B: That's not possible. That's our most popular dish!
@@ -2143,7 +2143,7 @@ A: Oh…
 Later, Bea is eating the same pasta dish in the restaurant across the street.
 A: Yeah, this tastes exactly the same.
 A: That's sad. Maybe I haven't changed.
-# 101. This Tastes Strange
+## 101. This Tastes Strange
 > Eddy is eating something he found in the fridge.
 A: Junior? This dessert tastes strange.
 B: What dessert?
@@ -2171,7 +2171,7 @@ A: I think I'm dying. I'm going to lie down.
 B: Wait! I need to write this in my notebook!
 A: Because you want to tell the doctor?
 B: No. Because I want to tell my teacher! You're my new science project!
-# 102. The Dragon Cake
+## 102. The Dragon Cake
 > Bea is watching Vikram decorate a wedding cake for her friend, Kara.
 A: Wow, I love how you decorated the cake!
 A: The bride and groom are riding dragons, just like the characters from Kara and David's favorite TV show!
@@ -2191,7 +2191,7 @@ A: Kara just sent me a message!
 B: What did she say?
 A: She's still really sad, but she loves the cake.
 B: That's all I wanted!
-# 103. Is This Love？
+## 103. Is This Love？
 > It's time for a new episode of the dating show, "Is This Love?"
 Eddy met many women on the show… Now he has to choose one!
 Right now, he's talking to Rose.
@@ -2217,7 +2217,7 @@ A: What?! Why?
 B: Because… I want to choose Megan.
 A: Huh?
 On the next episode of "Is This Love?"… what will Megan say?!
-# 104. The Boxing Match
+## 104. The Boxing Match
 > Lin and her grandmother, Lucy, are at a bar watching a boxing match.
 A: I'm leaving after I finish my drink, Grandma.
 B: But this is the most important match of the year!
@@ -2233,7 +2233,7 @@ B: The dating show about twenty men fighting over one woman?
 B: They don't even win a trophy!
 A: No. But they're fighting for love.
 B: Now that's boring.
-# 105. Flat Tire
+## 105. Flat Tire
 > Vikram and Priti are on vacation.
 While they're driving, their car suddenly makes a loud noise.
 Vikram stops the car on the side of the road.
@@ -2254,7 +2254,7 @@ A: That was a wonderful day.
 They arrive at the vacation house.
 B: We're here! Let's go inside.
 A: Wait… I can't find the key.
-# 106. What a Great Tent!
+## 106. What a Great Tent!
 > Eddy and his son Junior are in a tent in the woods at night.
 A: Are you having fun?
 B: No. This camping trip is terrible!
@@ -2272,7 +2272,7 @@ B: You're trying very hard!
 A: I don't understand, what else do you need?
 B: I need the bear that's outside the tent to leave!!!
 C: Grrr!
-# 107. The Movie Premiere
+## 107. The Movie Premiere
 > Oscar is visiting his cousin Orson, an actor, in Hollywood.
 A: I'm excited to go to your movie premiere! Look at my new suit!
 B: We don't have to wear suits.
@@ -2294,7 +2294,7 @@ When they arrive, they're wet and covered in mud.
 A photographer takes their photo.
 D: Wow, you look like you were in a war! Just like characters in the movie!
 B: Well, Oscar, you wanted us to look like movie stars!
-# 108. Time for a Change
+## 108. Time for a Change
 > Lin brings a big blue chair into Lucy's apartment.
 A: Look at the new chair I found for the living room!
 B: I can't believe you actually paid money for that!
@@ -2314,7 +2314,7 @@ A: I like how the room looks now.
 B: Too bad! I'm going to change the room now! I'm excited!
 A: We're going to have to buy all new things…
 B: That's OK, the chair was free… remember?
-# 109. I Want the Sandwich
+## 109. I Want the Sandwich
 > Vikram and Oscar sit down in a restaurant.
 A: I love this place. I always order the grilled cheese sandwich.
 B: Me too.
@@ -2341,7 +2341,7 @@ A: My friend, Vikram, will have the sandwich.
 C: While you were talking, someone ordered the last sandwich.
 B: I hate this restaurant!
 A: Yeah, I told you we shouldn't eat here.
-# 110. The Wrong Duck
+## 110. The Wrong Duck
 > Eddy is talking to a waitress at a restaurant.
 A: Is the food here good? It all looks… really expensive.
 B: Yes, it's not cheap, but we're one of the best restaurants in town.
@@ -2365,7 +2365,7 @@ A: I'm so sorry…
 D: It's OK. Let's have burgers across the street.
 D: This place is too expensive anyway!
 A: I think I'm in love.
-# 111. Asking for Directions
+## 111. Asking for Directions
 > Lin and Bea are looking for a restaurant in a small town.
 A: I'm tired of walking, and I'm really hungry!
 B: I think it's somewhere in this area.
@@ -2393,7 +2393,7 @@ D: Yes. I'm a cook there.
 A: Great! Can you make me a sandwich? I'm so hungry!
 D: No, you said I wasn't attractive.
 A: Well, that was before I found out you can cook.
-# 112. Summer Sweater
+## 112. Summer Sweater
 > Eddy and Junior are at the mall.
 A: Dad, why are we here? You hate this store.
 B: I need a sweater.
@@ -2424,7 +2424,7 @@ B: I'm fine!
 A: You can't take the sweater off, can you??
 B: No.
 A: Let's go buy some scissors.
-# 113. The Coffee Artist
+## 113. The Coffee Artist
 > Oscar is at the counter of a new coffee shop.
 A: This coffee is terrible!
 B: But this is the way I always make coffee.
@@ -2448,7 +2448,7 @@ D: Are they paying you?
 A: I'm not doing this for money. This is art.
 D: So is the coffee free, then?
 B: No. A cup of coffee costs five dollars. And you have to stand in line.
-# 114. My Leg Hurts
+## 114. My Leg Hurts
 > Bea opens her front door. She sees Eddy standing on one leg.
 A: My leg hurts. Can you drive me to the doctor's office?
 B: Sure!
@@ -2470,7 +2470,7 @@ B: Wow, that burger was amazing.
 A: Yeah, but we should go to the doctor's office now.
 B: Does your leg still hurt?
 A: No, my stomach hurts now. I think I ate too many burgers.
-# 115. I Saw You
+## 115. I Saw You
 > Lily is working in a clothes store.
 She stops a well-dressed woman leaving the store.
 A: Ma'am, did you just put that sweater in your purse?
@@ -2495,7 +2495,7 @@ Lily's boss runs into the store.
 C: Did you let that woman leave?
 A: Of course I did. Why not?
 C: She just stole a $300 purse!
-# 116. Dinner with the CEO
+## 116. Dinner with the CEO
 > Bea is using the photocopier at work. Her boss, Craig, comes to talk to her.
 A: Bea, I'm meeting our company's CEO for dinner tonight.
 A: Can you come? You couldn't come last time.
@@ -2516,7 +2516,7 @@ C: I also had two jobs when I was younger!
 C: Bea, I can see that you're a hard worker. I want to hear all your ideas for our company!
 B: Wow, thanks!
 B: But first, I should give you some bread, or my other boss will be angry.
-# 117. Oscar in Los Angeles
+## 117. Oscar in Los Angeles
 > Oscar is visiting his cousin, Orson, in Los Angeles.
 He walks into the kitchen with his camera and guidebook.
 A: Good morning, Oscar! I'm working today, but I can give you directions to any place in the city!
@@ -2537,7 +2537,7 @@ A: So, where are you going?
 B: You just got a new TV, right?
 A: Yes! It's in the living room.
 B: That's where I'm going.
-# 118. Airport Vacation
+## 118. Airport Vacation
 > Lily and Zari are at the airport.
 They're on vacation with Zari's family.
 Zari's mom walks over to them.
@@ -2565,7 +2565,7 @@ A: Come on, girls, our plane is leaving soon!
 C: Can we stay here?
 A: What about our vacation?
 B: This is the best vacation I've ever had.
-# 119. Zari's Driving Lesson
+## 119. Zari's Driving Lesson
 > Zari, a teenager, is driving a car for the first time.
 Bea is in the passenger's seat, giving her a driving lesson.
 A: Am I driving well?
@@ -2597,7 +2597,7 @@ A: What?!
 B: You're driving very well!
 A: Really?
 B: Yes! You drive much better when you're afraid!
-# 120. Who's Coming to Dinner？
+## 120. Who's Coming to Dinner？
 > Lucy is making soup. Lin comes into the kitchen.
 A: Guess who's coming to dinner tonight?
 B: Well, you're making your famous fish soup, so it's probably someone special.
@@ -2619,7 +2619,7 @@ A: Lin, this is Frank. He helps people with their resumes.
 C: Hi, Lin! Your grandma really wanted us to meet.
 C: She said that you need to find a job.
 B: Ugh, I'm going to put my pajamas back on.
-# 121. Perfect for the Job
+## 121. Perfect for the Job
 > Junior enters an ice cream store. He speaks to Jerry, the manager.
 A: Can I have a chocolate ice cream and a job application?
 B: Umm. How old are you?
@@ -2640,7 +2640,7 @@ The family looks very happy as they leave the store.
 B: Junior, you're a genius.
 B: But I still can't give you a job… Because you're a child.
 A: That's OK, you can pay me in ice cream!
-# 122. The Best Grade
+## 122. The Best Grade
 > Lily and Zari walk out of their history class.
 Zari is holding a test. She's upset.
 A: I got one question wrong on this test!
@@ -2665,7 +2665,7 @@ A: I'm not!
 A: You're going to help me.
 B: What?
 A: Sorry… It was your idea.
-# 123. Terrible Date
+## 123. Terrible Date
 > Lin arrives at her friend Bea's house.
 A: Hi, Bea! Are you ready to go?
 B: No! I can't find my phone!
@@ -2689,7 +2689,7 @@ C: Yes, here!
 He gives Bea her phone.
 B: So, can we have dinner again sometime?
 C: Yes… But not at my apartment.
-# 124. Leave a Message
+## 124. Leave a Message
 > Lily and Zari are listening to music in Zari's bedroom.
 A: Isn't Marco's party tomorrow?
 B: Yes. I hope he invites me. He's so cute.
@@ -2717,7 +2717,7 @@ A: Very true.
 B: If he wants to talk to me, he should send a text.
 A: Do you still want to go to Marco's party?
 B: No. I don't even like him anymore.
-# 125. The Security Question
+## 125. The Security Question
 > Priti and Vikram are walking quickly down the street.
 A: I can't wait to see this play!
 B: Do you have the tickets?
@@ -2745,7 +2745,7 @@ A: Wonderful! We're finally going to see this play!
 B: Wait… One problem. The tickets were for last night.
 A: What?!
 B: I told you that I never remember dates.
-# 126. Work from Home
+## 126. Work from Home
 > Bea is having a video meeting with her boss, Paula.
 A: Thank you for working from home while we were fixing the ceilings at the office.
 B: No problem!
@@ -2767,7 +2767,7 @@ B: You're not mad, are you?
 A: Actually, it doesn't matter where you are right now.
 B: Oh, good!
 A: But you need to be on the first flight back.
-# 127. The Drawing
+## 127. The Drawing
 > Lily is sitting in Mr. Hanson's classroom. Her textbook is open on her desk.
 A: Lily! You can't draw in your textbook!
 B: What? I don't draw in textbooks.
@@ -2785,7 +2785,7 @@ Some of the other students start laughing.
 A: I don't look like that!
 B: Yes, you do. This is a much better drawing of you.
 A: OK, maybe you didn't draw the other picture. But now you have to go to the principal's office.
-# 128. The Right Time
+## 128. The Right Time
 > Lin and Bea are in a clothing store.
 A: Let's get pizza now.
 B: I can't. I'm going to dinner with Jennifer.
@@ -2805,7 +2805,7 @@ The fitting room door suddenly opens. Jennifer comes out.
 B: Jennifer!
 C: I think this is the right time.
 B: But what about Hawaii?
-# 129. The Bakery
+## 129. The Bakery
 > Josh and Jane are giving Vikram a tour of their bakery.
 A: A lot of people are interested in our bakery. We're selling it at a great price…
 B: Yes… because we're getting a divorce.
@@ -2831,7 +2831,7 @@ A: We had a terrible marriage.
 B: But we have a great bakery!
 C: So you're not selling it anymore?
 B: No. But you can always come back for some cookies!
-# 130. New Hobby
+## 130. New Hobby
 > Lily's mother enters Lily's bedroom.
 A: Lily? You should get up.
 B: You should leave my room.
@@ -2856,7 +2856,7 @@ Very loud.
 A: Lily, can you stop playing the drums now?
 B: But it's my new hobby. And I need to practice at least three hours a day.
 A: Your new hobby is giving me a headache. Now I need to lie down.
-# 131. The Boy I Love
+## 131. The Boy I Love
 > Zari is babysitting Junior. They are watching a movie.
 Zari starts to cry.
 A: Zari? What's wrong?
@@ -2885,7 +2885,7 @@ B: He's in the movie we're watching right now.
 A: He is?
 B: Yes, and his acting is terrible!
 B: Now I never want to see him again!
-# 132. Vikram's Surprise
+## 132. Vikram's Surprise
 > Priti enters the kitchen. It's filled with smoke.
 A: Oh no! What happened in here?
 B: I was going to do something special for your birthday.
@@ -2909,7 +2909,7 @@ A: Oh, sweetie. This isn't a surprise.
 B: It's not?
 A: No. You start a fire in the kitchen on my birthday every year.
 A: So I got our favorite pizza. Surprise!
-# 133. Bird Sitting
+## 133. Bird Sitting
 > Lin is on the phone with her friend, Garrett. 
 A: Hi, Garrett!
 A: Are you coming home tomorrow or on Tuesday?
@@ -2938,7 +2938,7 @@ B: Meditation candles?
 A: Oh yeah, I started taking meditation classes! 
 A: Anyway, I can take care of your house next month too…
 A: Hello? Garrett, are you still there?
-# 134. Lily Helps with the Trash
+## 134. Lily Helps with the Trash
 > Lucy is outside of her apartment building.
 She notices that Lily is moving a carpet, a lamp, and a big, expensive TV outside.
 A: Are you moving?
@@ -2956,7 +2956,7 @@ A: But that TV is definitely not trash. It looks expensive.
 B: Do you watch TV? Every show is about money, murder, or dessert.
 A: Hmm. I agree, but your mom is going to be mad when she sees this.
 B: Yes, but she will never ask me to help with the trash again.
-# 135. The Hacker
+## 135. The Hacker
 > Bea walks into Eddy's apartment.
 A: Thanks for coming!
 B: Sure! You said there was a problem with your computer, right?
@@ -2981,7 +2981,7 @@ B: Eddy, there are mistakes all over your resume.
 A: The hacker probably changed it!
 B: Hmm. Do you know that your resume says you're good with computers?
 A: Yeah, the hacker definitely changed that.
-# 136. I Love Your Haircut
+## 136. I Love Your Haircut
 > Zari and Lily are talking in the hall at school.
 A: The tickets to the concert this weekend cost fifty dollars.
 B: We don't have fifty dollars!
@@ -3017,7 +3017,7 @@ E: But only if you cut my hair after school.
 B: You want a haircut?
 E: I have a big date tonight.
 A: No problem. But it's going to cost fifty dollars.
-# 137. New Jeans
+## 137. New Jeans
 > Eddy and Junior are shopping at the store where Lily works.
 A: Please don't make me try on clothes, Dad.
 B: But you need new clothes. Just put on these jeans.
@@ -3046,7 +3046,7 @@ B: Of course! What's the total, Lily?
 C: 150 dollars.
 B: What?!
 B: I don't want you to grow up, Junior. It's too expensive!
-# 138. New Roommate
+## 138. New Roommate
 > Lin is drinking wine with her friend Dana at a restaurant.
 A: I don't want you to move away!
 B: I know, but this city is too expensive. My apartment costs too much!
@@ -3072,7 +3072,7 @@ C: Yes, Dana can stay!
 A: Thank you!
 C: And she offered to pay, so I gave her your room.
 C: You stay here for free, so you can sleep on the couch.
-# 139. Girl Band
+## 139. Girl Band
 > Eddy and his son, Junior, are at a concert for the pop band, Hot Pink.
 While Eddy is watching the show, a man comes to talk to him.
 A: Can you believe we have to come to these concerts with our kids?
@@ -3095,7 +3095,7 @@ Eddy sees the man tapping his foot to the music.
 B: It's OK, you can say it. You like this band too.
 A: No…
 A: I just like this one song.
-# 140. Janet's Play
+## 140. Janet's Play
 > Bea and Lin are watching a play.
 A: Lin, wake up!
 B: Huh? What's going on?
@@ -3131,7 +3131,7 @@ C: But my character lost her dog in a flood!
 A: Oh.
 B: We couldn't see the stage very well.
 C: Then you can come again next week! I'll make sure you have front row seats!
-# 141. Long-Distance Girlfriend
+## 141. Long-Distance Girlfriend
 > Eddy is on a video call with his long-distance girlfriend, Lola.
 A: It's sad that we don't see each other very often. I really miss you…
 B: Eddy, I'm sorry. I don't think this is working—
@@ -3166,7 +3166,7 @@ B: But… I really like you. Maybe we can—
 The call ends again.
 A: Lola? Lola!
 A: She's right. This isn't working.
-# 142. Space Turtles
+## 142. Space Turtles
 > Eddy is in the kitchen paying his bills. He sees an unusual charge on his credit card bill.
 A: Junior? Do you play a game called "Space Turtles"?
 B: Yes, it's about turtles fighting robots… in space! You downloaded it for me on my phone, remember?
@@ -3192,7 +3192,7 @@ A: Hooray!
 C: We'll just delete all of the space turtles from your game.
 A: What? No!
 A: I love all of our space turtles! And actually, now I need to buy ten more, but it says my account is locked… Can you please help?
-# 143. House Party
+## 143. House Party
 > Bea's boss is paying Bea to take care of his mansion while he's on vacation.
 Bea's friend Lin arrives at the house with several friends.
 A: Lin, who are all of these people?!
@@ -3223,7 +3223,7 @@ A: That hole has been there for years?!
 C: Yes! Thanks for fixing it.
 B: Bea, I told you my friends didn't do this!
 C: Um, your friends were here?
-# 144. Eddy for Mayor
+## 144. Eddy for Mayor
 > Eddy is painting a big sign outside of his apartment building. Lucy walks by.
 A: Hi Lucy! Will you help me put this sign on the wall?
 B: Of course, Eddy!
@@ -3252,7 +3252,7 @@ A: Really? So you'll be my campaign manager?
 B: Oh, definitely not.
 A: Why not?
 B: Because now I want to be the mayor.
-# 145. Beach Day
+## 145. Beach Day
 > Oscar is driving with his cousin, Orson.
 A: I'm so glad that I came to visit you.
 B: Yeah, I thought you were only visiting for two days…
@@ -3282,7 +3282,7 @@ B: Oh no. Let's go back to my apartment to take care of your eyes.
 B: We'll be there in two hours… because of traffic.
 A: I hate Los Angeles!
 A: I'm going home tomorrow!
-# 146. The Interview
+## 146. The Interview
 > Bea is at the office of a non-profit company for an interview. She sits down next to a man.
 A: Wow, I'm really nervous.
 B: Oh, why?
@@ -3309,7 +3309,7 @@ B: Yes! I got the job!
 A: Will I have to work with him every day?
 C: Of course! You'll be a team.
 A: No, thanks. I don't want this job that much. 
-# 147. The Tea Set
+## 147. The Tea Set
 > Lucy gives her granddaughter Lin a gift.
 A: Wow, what's this? Did you get me the jacket I wanted?!
 B: Just open the gift.
@@ -3343,7 +3343,7 @@ A: This is so unfair. That was my wedding gift!
 C: Lin, if you ever get married, I'll give it to you.
 B: Don't worry, that will never happen.
 C: I know. Does anyone want tea?
-# 148. Pirates Are Cool
+## 148. Pirates Are Cool
 > Zari and Junior are at an amusement park.
 A: Thanks for bringing me to Pirate Land, Zari! Everything here is so cool!
 B: Yeah, I used to love this place when I was your age.
@@ -3378,7 +3378,7 @@ B: Wait, I actually love pirates! I was joking!
 C: I have to go.
 Paul walks away.
 A: Sorry, Zari. Can I have your pirate hat?
-# 149. The Magic School
+## 149. The Magic School
 > Eddy is in the kitchen reading his son Junior's book.
 A: Is that my book about the boy who goes to the magic school?
 B: Yes! This book is so good! I can't wait to see how it ends.
@@ -3407,7 +3407,7 @@ A: Oh no.
 B: And I read the rest of the books in the series!
 A: What?!
 B: Now you have to clean your room, or I'll tell you what happens in the next three books!
-# 150. I Love Boxing
+## 150. I Love Boxing
 > Lin and Oscar are in a coffee shop.
 Oscar is telling Lin a story when he notices that she's asleep.
 A: Lin, are you asleep?
@@ -3440,7 +3440,7 @@ B: Wow, how much sugar is in this?
 A: Two hundred grams. And as much caffeine as three cups of coffee!
 A: Don't you feel great?!
 B: Yeah, I love boxing!
-# 151. An Old Friend
+## 151. An Old Friend
 > Eddy is picking up Junior from school.
 A: Dad! Can we go to the park today? I want to play with Rusty.
 B: Absolutely! I like Rusty.
@@ -3472,7 +3472,7 @@ Eddy grabs Junior, and they leave.
 A: Dad, what's wrong? Why are we leaving?
 B: I don't want you to play with Rusty anymore.
 B: He reminds me of his dad.
-# 152. Be Honest
+## 152. Be Honest
 > Oscar and his friend Lucy are at a fancy restaurant.
 A: The chef is my friend. He went to school in Paris to study cooking.
 B: I don't care where he went to school. I just want to eat!
@@ -3505,7 +3505,7 @@ A: I mean, that's right, we're going together! We won't be back for many months.
 C: Really? When are you leaving?
 A: Uhh… Friday.
 C: Great! The dinner is tomorrow. You can still come!
-# 153. At the Gym
+## 153. At the Gym
 > Eddy is at the gym exercising with his friend Bea.
 He sees a woman walk in with a handsome man.
 A: Oh no! I think my ex-girlfriend Penelope is here with her new boyfriend.
@@ -3539,7 +3539,7 @@ C: And I don't date women!
 A: Oh…
 C: Actually, I thought you were handsome.
 C: That's why I got on the treadmill next to you.
-# 154. The Pie Festival
+## 154. The Pie Festival
 > Lucy and Vikram are at the pie festival. They each made a pie for a contest.
 They see Lin at the judge's table.
 A: Lin, I can't wait for you to taste my strawberry pie. Then you can tell everyone that it is the best!
@@ -3570,7 +3570,7 @@ B: But you were standing at the judge's table!
 C: I was just here to charge my phone! Then you asked me to taste your pies!
 D: So where are Lucy and Vikram's pies?
 C: Sorry, I finished both of them.
-# 155. I Need to Practice
+## 155. I Need to Practice
 > It's late at night. Eddy wakes up because Junior is loudly playing the drums.
 Eddy walks into Junior's room.
 A: Junior, it's ten p.m.! Do you have to play the drums now?
@@ -3600,7 +3600,7 @@ On the stage, Junior is playing a drum solo.
 A: Hey! That's my son!
 C: Really? He's great.
 A: Uh, yeah, I know! I make him practice all the time!
-# 156. Going Away Party
+## 156. Going Away Party
 > Oscar is moving to a new city for a new job.
 His friends are having a goodbye party for him.
 A: Thank you, everyone! I'm so lucky to have friends.
@@ -3627,7 +3627,7 @@ C: Now you can babysit Junior this weekend, Oscar!
 D: And, we can go camping next weekend! We just have to wake up early.
 B: Don't worry, Oscar. My alarm will wake you up!
 A: Great. I'm so lucky to have friends.
-# 157. It's Too Expensive
+## 157. It's Too Expensive
 > Vikram and Priti wait for a realtor outside a house with a "for sale" sign.
 A: Wow, I love this house! It's beautiful and so big!
 B: I'm not sure. It's too expensive.
@@ -3660,7 +3660,7 @@ A: Now I think you're right. This house has too many rooms, too many windows, an
 B: But I love the two dishwashers!
 A: I thought you preferred doing dishes by hand.
 B: No one prefers that.
-# 158. The Frog
+## 158. The Frog
 > Junior sees his classmate, Betsy, hiding a frog in their teacher's desk.
 A: Betsy, what are you doing?
 B: I'm going to scare our teacher.
@@ -3692,7 +3692,7 @@ The teacher leaves the classroom.
 B: Thanks, Junior. That was very brave. You know, you're pretty cool!
 A: No problem! So… do you maybe want to be my girlfriend?
 B: Ew! No. You kissed a frog.
-# 159. Lily's Painting
+## 159. Lily's Painting
 > Lily has a painting in an art show.
 A: This is so exciting! I'm so proud of you!
 B: A lot of other artists have paintings here, too. No one is going to buy mine.
@@ -3721,7 +3721,7 @@ A: That one over there. No one wants to buy it, and I really want to make Lily f
 C: Oh, a lot of people want to buy that one! But I won't let them.
 A: What? Why?
 C: It's the best painting here. I'm going to buy it for myself!
-# 160. I Can Do Anything
+## 160. I Can Do Anything
 > Eddy and Bea are playing tennis.
 A: Thanks for meeting me, Bea. I'm feeling very sad lately.
 A: All of my friends from college are so successful, but I'm not.
@@ -3752,7 +3752,7 @@ A: You're right!
 B: Huh?
 A: It's not too late for Junior! I'll make him practice every day, and then he'll be an Olympic tennis player!
 B: Um, Eddy, are we talking about the same Junior who only goes outside to buy video games?!
-# 161. The Long Flight
+## 161. The Long Flight
 > Lin gets on a plane for a flight to Hawaii. She sits down next to another woman.
 A: Lin, is that you?! I haven't seen you since…
 B: Since you broke up with me in college.
@@ -3784,7 +3784,7 @@ A: Oh! Lin, this is my girlfriend, Maria.
 B: Your… girlfriend?
 A: Maria, we're going to go sailing with Lin!
 B: Thanks, universe.
-# 162. The Baby Photo
+## 162. The Baby Photo
 > Zari runs into her neighbor Bea's apartment.
 A: Bea! Help!
 B: Zari, what's wrong? Are you OK?
@@ -3817,7 +3817,7 @@ B: What does the message say?
 A: He… doesn't recognize my number.
 B: That's great! He doesn't know the photo is from you!
 A: No, it's terrible! He doesn't even know who I am!
-# 163. Moving
+## 163. Moving
 > Lucy is helping her granddaughter, Lin, pack her suitcases.
 A: You're finally moving out of my apartment!
 B: I feel like I just moved here.
@@ -3841,7 +3841,7 @@ A: Yes… you should stay.
 B: Great!
 Lin starts unpacking her suitcases.
 A: But you can't sleep on the couch tonight. I have a date coming over!
-# 164. A Fancy Wedding
+## 164. A Fancy Wedding
 > Lucy and her granddaughter Lin are at a fancy wedding.
 A: There are too many flowers here. At your mother's wedding, there was one simple rose on every table.
 B: Shhh! Grandma, be quiet! The bride will hear you.
@@ -3863,7 +3863,7 @@ B: Grandma… are you crying?
 B: Wow, my parents' wedding sounds like it was really beautiful.
 A: No, that's not why I'm crying.
 A: I'm crying because I just saw that there's no cake.
-# 165. I'm Driving
+## 165. I'm Driving
 > Bea is waiting for Lin in front of her apartment building.
 Lin arrives at the apartment on a motorcycle.
 A: Are you ready to go to the beach?
@@ -3889,7 +3889,7 @@ Later, Bea is driving the motorcycle, and Lin is riding behind her.
 Lin looks very unhappy.
 B: You were right. This is better than renting a car!
 A: And you were right, riding back here is not fun.
-# 166. The Reunion
+## 166. The Reunion
 > Lucy is getting ready for a date. Her granddaughter, Lin, walks in the room.
 A: Lin! Should I wear the black dress or the green dress?
 B: The black dress is a little… short.
@@ -3911,7 +3911,7 @@ A: No, no… we are not young anymore.
 B: Grandma, you are still very beautiful!
 A: I'm not talking about me! I'm worried about him!
 A: Maybe he lost all of his beautiful hair!
-# 167. Move the Bed
+## 167. Move the Bed
 > Zari is lying on Lily's bed. She's looking up at the ceiling.
 A: Lily, your room is boring. You should move your furniture.
 B: No. The room looks good now.
@@ -3935,7 +3935,7 @@ B: Fine. Help me move it.
 They start to move Lily's bed, but Lily sees something on the carpet…
 B: Zari, did you spill coffee on my carpet?
 A: Yes. But don't worry. You won't see it after we move your bed.
-# 168. The New App
+## 168. The New App
 > Lucy is exercising. Lin walks in the room with her cell phone.
 A: Grandma! Look, I have a new app on my phone!
 B: You always have a new app on your phone.
@@ -3960,7 +3960,7 @@ A: But Grandma, you're getting older!
 B: Maybe you should take the test.
 A: Me? Why?
 B: Because you don't sleep enough, you don't eat healthy food, and you don't drink enough water!
-# 169. That's Not Dinner
+## 169. That's Not Dinner
 > Vikram runs into his neighbor's apartment.
 A: Eddy, I'm here! What's the emergency?!
 B: I have a date, but I forgot she is a vegetarian… like you!
@@ -3992,7 +3992,7 @@ B: We don't have any food to make a vegetarian dinner!
 C: That's not true. We have ice cream.
 A: Junior, that's not dinner.
 C: Yes, it is! Dad and I eat ice cream for dinner all the time!
-# 170. Eddy's New Haircut
+## 170. Eddy's New Haircut
 > Eddy sees Lucy outside their apartment building.
 A: Whoa, Eddy! What happened to your hair?
 B: Oh, I got a new haircut!
@@ -4023,7 +4023,7 @@ A: Uh… well…
 A: Do you have a different hat?
 B: Why?
 A: That hat is worse than the haircut.
-# 171. The Wedding Present
+## 171. The Wedding Present
 > Vikram is dancing in his living room.
 A: Oh, yeah! Step to the left! Step to the right! I love this song!
 He accidentally hits a vase. It falls on the floor and breaks.
@@ -4053,7 +4053,7 @@ B: Yes, the living room looks much better without it.
 B: And now we have more space for dancing!
 Vikram turns on the music, and they start dancing.
 B: Step to the left… Oh yeah!
-# 172. Waiting for George
+## 172. Waiting for George
 > Lucy is leaving a nice restaurant.
 She sees her friend, Julia, sitting at a table by herself.
 A: Julia! What's wrong? You look sad!
@@ -4082,7 +4082,7 @@ B: Oh! My anniversary is tomorrow!
 B: I feel much better now!
 A: Oh, great! Everything is OK with you and George!
 B: Yes! I'm so happy. But wait, do you really think George talks too much?
-# 173. Marathon Runner
+## 173. Marathon Runner
 > Eddy is on a date with Mimi at a restaurant.
 A: The dinner was very delicious.
 B: Yes, it was!
@@ -4110,7 +4110,7 @@ B: Yes…
 C: I'm Deborah. My friend, Mimi, said we should meet!
 B: Hi, I'm Eddy. I like your sneakers!
 C: Thanks! I'm running a marathon in the fall!
-# 174. Aliens Are Real
+## 174. Aliens Are Real
 > Eddy and his son, Junior, are in their apartment.
 They are arguing.
 A: I think believing in aliens is crazy.
@@ -4139,7 +4139,7 @@ B: What?
 Junior looks down at his shirt.
 B: OK, you win. I ate your cereal.
 B: But I still think aliens are real.
-# 175. Space Viking
+## 175. Space Viking
 > Lily and Zari are in art class.
 A: I'm so excited to see Space Viking 2 tonight!
 Their teacher, Oscar, hears them talking about the movie.
@@ -4168,7 +4168,7 @@ C: You said we wouldn't learn anything.
 A: But we learned that our art teacher likes action movies!
 B: I just wanted to watch my movie alone.
 C: OK. See you on Monday, Space Viking…
-# 176. Bad Reception
+## 176. Bad Reception
 > Eddy and Oscar are in Oscar's apartment. They are watching a soccer game on TV.
 A: Yes! Amazing!
 A: Did you see that goal?
@@ -4197,7 +4197,7 @@ Oscar's phone rings.
 Oscar answers his phone. It's Eddy calling from the hall.
 A: Oscar? Your door is locked. Can you let me in?
 B: Sorry, I can't hear you. I have bad reception.
-# 177. A Perfect Anniversary
+## 177. A Perfect Anniversary
 > Vikram walks into a jewelry store.
 A: Hello, how can I help you?
 B: Hi! I need help with something very special.
@@ -4225,7 +4225,7 @@ B: Well, we shared a sandwich there on our first date.
 A: You kept this napkin for twenty years?!
 B: Yes! I have loved her since we shared that sandwich.
 A: OK… maybe that is romantic.
-# 178. The Password
+## 178. The Password
 > Lucy is looking at her computer.
 A: Lin! I can't log into my computer! I forgot my password.
 B: OK, I'll look at it… The password hint is "The name of your first love."
@@ -4262,7 +4262,7 @@ A: And I did.
 B: What's the Black Rose?
 A: The airplane. It was the most beautiful plane in the world.
 B: "Black Rose…" Yes! That's the password!
-# 179. Junior Makes a Mess
+## 179. Junior Makes a Mess
 > Eddy comes home from work.
 A: Junior! I'm home!
 B: I'm in my room, Dad!
@@ -4293,7 +4293,7 @@ A: Oh. Thank you for remembering, Junior. I love it.
 Eddy hugs Junior.
 B: Do you want to eat some cake now?
 A: Uh… maybe later, Junior. This cake is covered in paint…
-# 180. The Audition
+## 180. The Audition
 > Lily is in the hall at school. Zari runs over to her.
 A: Lily! I'm going to an audition for a play after school. Can you please come with me?
 B: No.
@@ -4326,7 +4326,7 @@ B: What? But I fainted.
 A: I know! Because you were so good at lying on the floor, they chose you to be a dead body in the play!
 B: Oh…
 B: That's actually pretty cool.
-# 181. Aunt Betty
+## 181. Aunt Betty
 > Eddy knocks on the bathroom door.
 A: Junior, come out now. We're going to Aunt Betty's house tonight.
 B: I can't go. I'm sick.
@@ -4349,7 +4349,7 @@ Junior opens the door… and he looks terrible.
 A: Whoa! Wow! Junior, your face is covered in red spots!
 A: We need to go to the hospital right now!
 B: The hospital?! You told me we were going to get ice cream!
-# 182. Twenty Years
+## 182. Twenty Years
 > Bea is making a documentary film.
 She's interviewing Oscar, the local art teacher.
 A: Are you ready for the interview now?
@@ -4382,7 +4382,7 @@ A: What? I waited all day to talk about another artist?! I need to leave.
 B: But you've been waiting twenty years to talk about art!
 Oscar stands up and gets ready to leave.
 A: Yes, and I can wait a little longer.
-# 183. Junior's Interview
+## 183. Junior's Interview
 > Junior enters Bea's apartment. He is carrying a briefcase.
 A: Hello, Bea. I'm here for my interview.
 B: Um… interview?
@@ -4412,7 +4412,7 @@ A: If you give me the job, you can eat all of your roommate's cookies. And then,
 B: Ooh. Good idea! You can have the job!
 They shake hands.
 A: We can talk about my salary later.
-# 184. The Drummer
+## 184. The Drummer
 > Lily and Zari are waiting in line outside a theater.
 A: Are you sure we can get into the concert?
 B: Yeah, I met the drummer at a record store.
@@ -4449,7 +4449,7 @@ D: My girlfriend is by the T-shirt table.
 D: She can tell you what to do.
 B: Your girlfriend?
 D: Yeah! She's the really pretty girl, over there. Tell her I said you can have a free T-shirt!
-# 185. Sorry I'm Late
+## 185. Sorry I'm Late
 > Eddy arrives at a restaurant. He talks to the waiter.
 A: Hi, I'm meeting someone here for a date, and I'm late! Have you seen her?
 A woman waves to him.
@@ -4482,7 +4482,7 @@ B: I'm Liz, from the gym downtown. We are hiring a manager to work at night and 
 A: So, can I have the job?
 B: Definitely not.
 A: Well, now my nights and weekends are free for dates!
-# 186. Nice Tie
+## 186. Nice Tie
 > Zari is babysitting Junior while his dad is on a date.
 Junior walks into the room. He's wearing a nice shirt and a tie.
 A: Junior, why are you wearing a tie?
@@ -4522,7 +4522,7 @@ C: What's wrong with him?
 A: Haha… I think you have a fan.
 C: That's cool. Whoa, this cheese looks great. Can I have some?
 A: Yes, I think that's all for you.
-# 187. The Accident
+## 187. The Accident
 > Junior sees Lucy in their neighborhood.
 A: Hi Lucy!
 Lucy waves at Junior. She has a bandage on her foot.
@@ -4547,7 +4547,7 @@ B: Then a nice man saw me on the road and stopped to help me.
 B: He was very handsome, so I asked him to go out with me.
 A: But how did you hurt your foot?!
 B: He stepped on it! I'll never go dancing with him again.
-# 188. Late for the Movie
+## 188. Late for the Movie
 > Lucy is buying popcorn at the movie theater. She sees a man and a woman. She waves at them.
 A: John? John! Hello!
 The man grabs the woman's hand and starts to walk away quickly.
@@ -4577,7 +4577,7 @@ B: Oh hey! The movie is starting now! We have to go!
 C: John? Who is Sandra?!
 Lucy starts eating her popcorn.
 A: Oh, wow. John, my friend, I think you're going to miss that movie.
-# 189. Is This a Date？
+## 189. Is This a Date？
 > Junior and Lily are at a museum.
 A: This museum is pretty cool…
 B: It's a really great museum! And this is a great date!
@@ -4606,7 +4606,7 @@ Zari walks over to Junior and Lily. She has two sodas and a box of candy.
 C: Look, Junior! Your dad gave me enough money to buy candy too!
 B: Thank you, Zari. This is a great date!
 C: Junior, this is not a date.
-# 190. The Art Show
+## 190. The Art Show
 > Oscar waits in a long line for an art show downtown.
 He walks over to the security guard.
 A: I've been waiting in line since seven o'clock! Can I go in now?
@@ -4636,7 +4636,7 @@ A: Yeah, but I'm giving up now. Let's go get dinner instead.
 C: Sure. I'm really hungry after looking at all of that art.
 A: What? You got inside?
 B: Of course. She's very cool.
-# 191. Whale Watching
+## 191. Whale Watching
 > Eddy and his son, Junior, are whale watching on a boat. Junior is playing a video game on his phone.
 A: Isn't this terrific, Junior? I can't wait until we see a whale!
 B: I can't wait to get to the next level of my game!
@@ -4665,7 +4665,7 @@ C: What?!
 B: You missed the whales!
 A: No!
 B: Adults never pay attention to important things!
-# 192. I Can Fix It!
+## 192. I Can Fix It!
 > Oscar is standing outside his classroom. He looks upset. Another teacher, Eddy, walks by.
 A: Hi, Oscar! Is everything OK?
 B: No. I called someone to fix the bathroom sink at my house, but he's very late.
@@ -4694,7 +4694,7 @@ B: My new mirror!
 A: OK… I'm finished. Look! I fixed the sink!
 B: Thanks. But you broke my vase and my mirror. My towels are dirty. And there's water everywhere!
 A: But you didn't have to pay to fix your sink!
-# 193. Hannah's Party
+## 193. Hannah's Party
 > Zari is at a party at her friend Hannah's house. Lily arrives at the party.
 A: Lily! What are you doing here? You hate parties.
 B: I heard that Hannah is moving away.
@@ -4727,7 +4727,7 @@ A: Then why are you here, Lily?
 B: I'm here because Hannah owes me twenty dollars. I wanted to get it before she moved.
 A: Ohhhhh!
 A: Hannah! You need to give my best friend Lily her money now!
-# 194. Eddy's Meeting
+## 194. Eddy's Meeting
 > Eddy is meeting with his son Junior's teacher. He sits down and looks nervous.
 A: Thank you for coming in. We really need to talk.
 B: What did Junior do? Has he been hiding under his desk and eating candy again?
@@ -4753,7 +4753,7 @@ B: Oh… right, I knew that.
 A: Also, dinosaurs could not run faster than cars.
 B: Really?
 A: Maybe you should let Junior do the research next time.
-# 195. I'm the Manager
+## 195. I'm the Manager
 > Lily arrives at the clothing store where she works. Her boss immediately comes to talk to her.
 A: Lily, you're late again.
 B: I know.
@@ -4788,7 +4788,7 @@ A: I know.
 B: Thanks for the promotion. Bye.
 A: Wait, you just got here! Where are you going?
 B: I decided I'm not working today. I'm the manager now.
-# 196. Is Your Wifi Working？
+## 196. Is Your Wifi Working？
 > It's late at night. Eddy's neighbor, Bea, knocks on his door.
 A: Oh, hi, Bea! Why are you here so late?
 B: Hi, Eddy. I was wondering… is your wifi working?
@@ -4821,7 +4821,7 @@ A: OK.
 There is another knock on Eddy's door. Eddy answers it. Lin is standing outside.
 A: Oh, hi, Lin! Why are you here so late?
 C: Hi, Eddy. Uh… I was wondering. Is your wifi working?
-# 197. The Worst Season
+## 197. The Worst Season
 > Oscar and Vikram are waiting for a bus.
 Oscar sneezes.
 A: Ugh. I have very bad allergies right now.
@@ -4846,7 +4846,7 @@ B: Oscar, do you like any part of the year?
 A: New Year's Eve is OK.
 B: Great! Why do you like New Year's Eve?
 A: Because on New Year's Eve another terrible year is finally over.
-# 198. Call a Doctor!
+## 198. Call a Doctor!
 > Eddy is jogging in the neighborhood. Suddenly, he falls and hurts his ankle.
 A: Ow!
 A man in a white lab coat walks quickly past him.
@@ -4880,7 +4880,7 @@ A: Wait, I've seen you on the TV show you're on! My son and I watch it!
 A: I know how you can help me feel better…
 B: How?
 A: You can take a picture with me for my son!
-# 199. Lin's Resume
+## 199. Lin's Resume
 > Lin is meeting a woman at a cafe for a job interview. She sits down and gives the woman her resume.
 A: Thank you for meeting me, Lin. You have a very interesting resume.
 A: It says that your first job was studying whales in Antarctica.
@@ -4904,7 +4904,7 @@ A: Well, I'm sorry. I can't give you this job.
 B: Yeah, I understand…
 A: But I do have a suggestion.
 A: Have you ever thought about a career in creative writing?
-# 200. The Great Baking Show
+## 200. The Great Baking Show
 > Vikram and his friend, Lin, are at a TV studio. They are having an audition for a new baking show.
 A: Thanks for being my assistant today, Lin.
 B: No problem. I know how important this is to you. And I brought some extra ingredients to help us win.
@@ -4933,7 +4933,7 @@ C: Don't go! We want you to be on our show!
 B: Really?
 A: But we burned our cake…
 C: Yes, but you and Lin are so fun to watch!
-# 201. The Refund
+## 201. The Refund
 > Lily is working at the clothing store.
 A: Excuse me, how much is this suit?
 B: Two hundred dollars. Do you want to try the suit on?
@@ -4965,7 +4965,7 @@ C: Oh! Sir, your suit looks damaged. Would you like a refund?
 A: Yes, please! Thank you so much, ma'am.
 C: Lily, we will talk about this later.
 B: I hate this job.
-# 202. Something New
+## 202. Something New
 > Lin and Bea are standing together in the park.
 They're both holding skateboards and wearing helmets. Kids are skating around them.
 A: Why are we doing this again?
@@ -4997,7 +4997,7 @@ B: Maybe skateboarding was a bad idea. I just really like to do one new thing ev
 A: Well, have you ever broken your arm before?
 B: No…
 A: Then you did two new things today!
-# 203. The Lost Costume
+## 203. The Lost Costume
 > Lily is helping Zari get ready for the school play.
 A: Where's my costume?! I need to be on the stage in five minutes, and I can't find it!
 B: You always lose things. Do you need help looking?
@@ -5026,7 +5026,7 @@ Zari walks on the stage in the bear costume and starts to say her lines. The aud
 Lily sees Jenny walk off the stage. Jenny looks furious.
 C: I don't understand! The audience loves her!
 B: Yeah, you're right. Thanks for your help, Jenny.
-# 204. The Cat Rule
+## 204. The Cat Rule
 > Eddy and Junior are taking care of a neighbor's cat. The cat is sleeping on Junior's lap.
 A: Junior, you need to wash the dishes.
 B: I can't do that now, Dad. It's the Cat Rule!
@@ -5055,7 +5055,7 @@ A: Do you want to answer the door? Oh right, you can't. Cat Rule, right?
 Eddy answers the door and comes back with a pizza.
 B: You ordered my favorite pizza!
 A: And now I'm going to eat the whole pizza by myself in the kitchen! I'd share with you, but you can't stand up. Cat Rule!
-# 205. Don't Feed The Seals
+## 205. Don't Feed The Seals
 > Lucy and her granddaughter, Lin, are visiting a beach. It is covered with hundreds of seals.
 They see a sign that says, "Danger! Do not feed the seals! $100 fine."
 A: Wow! I've never seen this many seals in my life.
@@ -5095,7 +5095,7 @@ D: What boy?
 Lin and Lucy turn and see the boy running away.
 D: It says on the sign, "Don't feed the seals." You need to pay a $100 fine.
 A: We should have let the seals eat the boy.
-# 206. Yoga Class
+## 206. Yoga Class
 > Lucy invited Eddy to a yoga class.
 They're in the studio getting ready.
 A: So, you've never been to a yoga class?
@@ -5132,7 +5132,7 @@ B: Sorry.
 C: Sir, was this your first time doing yoga?
 B: Uhh… yeah.
 C: I think you should come back tomorrow. We have a class for beginners… like you.
-# 207. The Flu Shot
+## 207. The Flu Shot
 > Eddy and his son Junior are waiting in a small room at the doctor's office.
 A: I wish I didn't have to get a flu shot…
 B: I know! You must be scared, son.
@@ -5166,7 +5166,7 @@ The doctor puts the needle away.
 C: I'm finished! That was a good plan, Junior.
 B: What plan? Junior, I don't understand.
 A: Well, Dad, the Doctor and I just convinced you to get your flu shot!
-# 208. Where's My Jacket？
+## 208. Where's My Jacket？
 > Oscar knocks on Eddy's door. Eddy opens it.
 A: Eddy, do you have the jacket I gave you last week?
 B: Your blue jacket? Don't you hate that jacket?
@@ -5204,7 +5204,7 @@ A: That's… very kind.
 E: Well, enjoy your new jacket!
 Oscar gives the bag back to her.
 A: Actually, I don't need this jacket anymore. I think I'll donate it again.
-# 209. Bad Monkey
+## 209. Bad Monkey
 > Eddy and Junior are looking at the monkeys at the zoo. Suddenly, Eddy hears Junior shout.
 A: Stop! Thief!
 B: Junior, what's wrong?
@@ -5236,7 +5236,7 @@ B: Wow, I'm sorry that I didn't believe you, Junior. I'll buy you some more cand
 Eddy looks for his wallet.
 B: That's strange… I can't find my wallet.
 A: I think I know who took it…
-# 210. The List
+## 210. The List
 > Bea and Lin are taking a trip in Bea's car. Bea is driving.
 A: Hey! Can we stop at that amusement park?
 B: Sorry, we can't go there. It's not on the list.
@@ -5266,7 +5266,7 @@ Suddenly, the vehicle stops in the middle of the road.
 A: What's happening?
 B: We ran out of gas!
 A: Maybe next time we should add "gas station" to the list.
-# 211. Monster Under the Bed
+## 211. Monster Under the Bed
 > It's late at night. Junior is in his bed, but he can't sleep.
 A: Dad! There's a monster under my bed! I need you!
 Eddy runs to Junior's bedroom.
@@ -5301,7 +5301,7 @@ B: Ah. OK.
 B: I'll just sleep here…
 Eddy closes his eyes.
 B: Goodnight, Junior.
-# 212. Cousins
+## 212. Cousins
 > Lily and her mom are standing outside Lily's aunt's house.
 A: Lily, please be nice to your cousin Jessica tonight. She's really excited to see you!
 B: I'm not excited to see Jessica.
@@ -5342,7 +5342,7 @@ B: Hi, Mom. So I'm not in trouble?
 A: Of course not!
 A: Lily, you could learn a lot from your cousin.
 B: Actually, I think you're right.
-# 213. Inhale, Exhale
+## 213. Inhale, Exhale
 > Oscar is lying on the sofa at his therapist's office. The therapist is taking notes.
 A: So, how are you feeling today?
 B: I am feeling stressed!
@@ -5376,7 +5376,7 @@ A: Ah!
 B: Ah!
 B: You're right! I do feel more relaxed now.
 A: I do, too.
-# 214. Front Row
+## 214. Front Row
 > Eddy is on a date with Rose. They go to see a comedy show.
 A: Let's sit in the front row!
 B: Sure!
@@ -5410,7 +5410,7 @@ C: Oh, that's hilarious. I'm going to use that in my next show.
 Marie walks away laughing.
 A: Wow! You inspired Marie Baker's next joke! You're going to be famous!
 B: Great.
-# 215. Eddy's Night Out
+## 215. Eddy's Night Out
 > Eddy puts on a tie. His son Junior watches.
 A: I'm so excited to stay at my friend's house tonight! But won't you be bored without me?
 B: No, I'm going on a date!
@@ -5450,7 +5450,7 @@ The next morning, Junior comes home.
 B: Junior! You're home!
 B: Let's watch cartoons and order pizza! Doesn't that sound fun?
 A: You were bored without me, weren't you?
-# 216. Checking In
+## 216. Checking In
 > Bea runs through the airport. She is carrying a heavy suitcase and trying to get through the crowd.
 A: Excuse me! Sorry, I'm late!
 Bea arrives at the check-in desk.
@@ -5482,7 +5482,7 @@ B: You still can't take that suitcase on the plane.
 A: It's OK. You can keep it.
 B: Is there anything else I can help you with?
 A: Can you get me a ride to the gate? I can't move.
-# 217. Bad at Soccer
+## 217. Bad at Soccer
 > Junior is in his room playing a video game. Eddy comes in with a shopping bag.
 A: Junior! Look! I bought something for you! A new soccer ball!
 B: Dad, you know I'm bad at soccer.
@@ -5509,7 +5509,7 @@ B: Me?! But this was your idea!
 A: Junior…
 B: Fine.
 B: Lucy, I'm sorry that my dad made me play soccer.
-# 218. What's the Recipe？
+## 218. What's the Recipe？
 > Vikram walks into a bakery.
 A: Hi. My wife loves your apple pastries.
 B: Cool.
@@ -5548,7 +5548,7 @@ B: It tastes better.
 A: Thank you. My wife thinks so, too. And I'd like to give you the recipe.
 B: Really? Why?
 A: Because I believe good recipes should always be shared.
-# 219. On the News
+## 219. On the News
 > Zari and Lily are watching the news on TV.
 A reporter is interviewing a woman who rescued a boy from a lake.
 A: I wish I could be on the news.
@@ -5584,7 +5584,7 @@ E: I've climbed up this tree to talk to this embarrassed young girl.
 E: Now, you said you were trying to rescue a cat… but where's the cat?
 A: Uh, the cat climbed down. And I got stuck in the tree.
 D: Wow! I guess it's pretty easy to get on the news.
-# 220. Save the Animals!
+## 220. Save the Animals!
 > Oscar is walking into the school where he works. He's wearing a long fur coat. Another teacher stops him.
 A: Oscar, wait! Are you wearing a fur coat?
 B: Yes, isn't it gorgeous? It belonged to my uncle. Fur coats were very fashionable when he was young.
@@ -5609,7 +5609,7 @@ C: It isn't?
 A: Why didn't you just say that?
 B: I wanted everyone to think I was wearing an expensive fur coat.
 C: Oh. In that case, you can have this paint back. I stole it from your classroom.
-# 221. Junior's New Business
+## 221. Junior's New Business
 > Eddy comes home from work. His son Junior is excitedly waiting for him.
 A: Dad, look what I got!
 Junior proudly shows his dad a new video game.
@@ -5638,7 +5638,7 @@ Junior walks back outside.
 A: Wow, Dad, you really did a great job on all those windows. They're perfect and shiny now!
 B: Yes, I know.
 A: Would you like to be my new business partner?
-# 222. Too Much Stuff
+## 222. Too Much Stuff
 > Lin comes home. Her grandmother Lucy's belongings are all over the living room.
 A: What's going on? This place is really messy.
 B: Sorry, my cousin Mae is coming to visit. You know how she's so neat and organized…
@@ -5667,7 +5667,7 @@ The doorbell rings. It's Lucy's cousin, Mae. Lucy invites her in.
 C: Wow, the place looks so much neater than the last time I visited.
 B: I'm so glad you like it!
 C: But where's that gorgeous goat sculpture I gave you?
-# 223. Secret Place
+## 223. Secret Place
 > Zari and Lily are hanging out on the roof of their apartment building.
 A: It's so cool up here. Why don't we ever come to the roof?
 They notice a large cardboard box making noise.
@@ -5699,7 +5699,7 @@ F: Hi Junior! We're going to have a dance party! Come join us!
 C: That's OK, I'm going to go now.
 E: Where?
 C: Ahhh… To find a new secret place.
-# 224. Eddy's Tears
+## 224. Eddy's Tears
 > Vikram is stirring a pot of soup at the stove while his friend Eddy cuts vegetables next to him.
 A: How was your date with Mira last night?
 B: I thought it was amazing, but now I don't know. I think she might break up with me.
@@ -5727,7 +5727,7 @@ A: You just need to talk about how you feel more often!
 B: No, I think I just need to cut onions when I'm with Mira!
 Eddy puts two onions in his pocket.
 B: Can I keep these?
-# 225. I'm Fine!
+## 225. I'm Fine!
 > Lucy broke her arm while she was rock climbing. She is wearing a cast.
 Lucy's granddaughter, Lin, hired a nurse to help her at home.
 A: I told you that I don't need a nurse!
@@ -5760,7 +5760,7 @@ A: Uh… Gilberto?
 Gilberto returns and sees Lucy with the jar. He smiles.
 C: Hello, Lucy. Is there something you would like to say to me?
 A: Yes… I need your help.
-# 226. Surprise Party
+## 226. Surprise Party
 > Lily and Zari see Vikram buying balloons in a store.
 A: Hi, Vikram. Nice balloons!
 B: Thanks, it's my wife's birthday. I'm having a surprise party for her.
@@ -5799,7 +5799,7 @@ A: Don't call an ambulance!
 C: Look, she's feeling better now.
 D: OK, you're both being silly, and I don't have time.
 D: My husband is having a surprise party for me, and I can't be late.
-# 227. The Principal's Office
+## 227. The Principal's Office
 > Eddy is sitting across from Principal Williams at his son Junior's school.
 A: Usually, Junior is a perfect student. He's smart, kind, and polite. But recently, he has been misbehaving.
 B: Oh no, what did he do now?
@@ -5826,7 +5826,7 @@ B: Why does it matter that we're both single?
 A: I think I know what's going on.
 A: Junior, are you getting in trouble on purpose because you want me to date your father?
 C: Of course! You both love to punish me, so you should be together!
-# 228. Is She Mad at Me？
+## 228. Is She Mad at Me？
 > Lily and Zari are eating lunch at school. Zari stares at her phone.
 A: This is awful. I texted Maggie to ask if she wanted to hang out this weekend, but she's ignoring me.
 B: Wait. I thought we were hanging out this weekend. We're going to a concert.
@@ -5860,7 +5860,7 @@ B: Great…
 Lily walks back to Zari.
 A: What did she say?! Was she mad at me?
 B: Uh… yeah, but don't worry. I fixed everything.
-# 229. The Best Cookies
+## 229. The Best Cookies
 > Junior and Eddy are in Vikram's kitchen.
 A: It's so great that you're letting us try new cookie recipes for your bakery.
 B: And when your bakery opens, we'll have free cookies for the rest of our lives!
@@ -5892,7 +5892,7 @@ C: The ones shaped like bones? Those are dog treats.
 B: We ate dog food?!
 A: Oh, these are pretty good for dog treats! I'm impressed!
 B: I think I'm going to be sick.
-# 230. Dating‌ ‌Apps‌
+## 230. Dating‌ ‌Apps‌
 > Eddy and his neighbor, Bea, are watching a movie.
 A: Ahhh… I want my life to be like a romantic comedy.
 B: So, you want a woman to fall in love with you after you spill coffee on her? That's not realistic.
@@ -5924,7 +5924,7 @@ B: Wait, you're messaging ninety-eight women? Did you accept every request? You 
 A: But any one of these women could be my soulmate. And… I wouldn't want to hurt anyone's feelings.
 Bea takes Eddy's phone away.
 B: You're too nice for dating apps, Eddy.
-# 231. My Horse Hates Me
+## 231. My Horse Hates Me
 > Zari and Lily are at a farm in the countryside.
 A: I can't believe we're going to ride horses. I think I'm allergic to them.
 B: It'll be fun. Horses are magical creatures!
@@ -5959,7 +5959,7 @@ A: I think I like horses more than people.
 Lily rides away. Zari looks into her horse's eyes.
 B: Oh no, I can see my future.
 B: I think I'm going to have a difficult ride back to the farm.
-# 232. The Videotape
+## 232. The Videotape
 > Eddy brings his son, Junior, home from school.
 A: How was school today?
 B: Terrible! The teacher gave me a big part in a play.
@@ -5999,7 +5999,7 @@ A: I felt like I was.
 C: What part do you have in your play, Junior?
 B: I'm playing a rock.
 A: Awesome! My son's going to be a star!
-# 233. Remove This Statue
+## 233. Remove This Statue
 > Zari finds Lily standing outside of the school building. Lily is holding a sign.
 A: What are you doing?
 B: Read my sign.
@@ -6025,7 +6025,7 @@ A: Lily's right! We're staying here until you remove this statue!
 Zari grabs the key to Lily's handcuffs and throws it into the street. It falls into a drain.
 B: Zari! I only had that one key! And we have tickets to a concert tonight!
 A: What's more important: a concert or justice?
-# 234. Tiny Hat
+## 234. Tiny Hat
 > Bea arrives at a fashion show wearing a new designer outfit.
 Her guest, Lin, arrives wearing torn jeans and an old sweater.
 A: Lin! What are you wearing?
@@ -6053,7 +6053,7 @@ D: Hahaha! You're hilarious! I must take a photo with you.
 B: Sure! Can my friend be in the photo too? She's my stylist.
 A: I am?
 B: Yes, you gave me this sweater.
-# 235. The Mountain
+## 235. The Mountain
 > Junior sits in class on a Monday morning. Everyone takes out their notebooks.
 A: Who wants to read their essay about what they did this weekend?
 Junior raises his hand.
@@ -6080,7 +6080,7 @@ B: Dad said, "Junior, why are you sitting on that pile of clothes I just washed?
 B: Then he said, "You need to fold all of those clothes if you want pancakes."
 D: So, wait… the story is you had to fold some clothes before your dad made you pancakes?
 B: Yes—and it almost killed me.
-# 236. A Difficult Person
+## 236. A Difficult Person
 > Vikram and Priti are enjoying a peaceful breakfast.
 Suddenly, a car horn beeps loudly outside their house.
 A: Who is making all of that noise so early in the morning?
@@ -6111,7 +6111,7 @@ C: And the people are more fashionable.
 C: I really live in the best city in the world!
 B: Then why are you buying a place here?
 C: Because I don't have any friends there.
-# 237. Pirate Land
+## 237. Pirate Land
 > Zari and Lily are at an amusement park.
 A: Isn't Pirate Land the best?
 B: No.
@@ -6148,7 +6148,7 @@ A few minutes later, Lily finds Zari next to the pirate ship.
 B: That was hilarious.
 A: I'm so embarrassed. We have to leave now.
 B: No way, Pirate Land is great. And I need some more nachos.
-# 238. I Can Predict the Future
+## 238. I Can Predict the Future
 > Bea and Lin are walking down the street.
 A: Do you want to go get a drink?
 B: I can't. I have to go home and finish a presentation for a client.
@@ -6180,7 +6180,7 @@ A: Oh no! I'm sorry.
 B: I spent so much time on that presentation!
 A: Well, I did say that you had nothing to worry about…
 B: Maybe you can predict the future after all.
-# 239. Uncle Edward's House
+## 239. Uncle Edward's House
 > Eddy and Junior walk into a big, dark house full of dusty, old furniture.
 A: Come on, Junior! I can't wait to show you this house.
 B: This house is scary!
@@ -6215,7 +6215,7 @@ B: Dad, this house is really dangerous!
 A: Yeah. Now I know why Uncle Edward left it to me.
 Eddy and Junior drive home with the chandelier in their car.
 A: Well, at least we got a new chandelier.
-# 240. Get Out!
+## 240. Get Out!
 > Lin and Lucy are walking down the street when it starts to rain.
 A: Let's go to a coffee shop to get out of the rain. How about this one?
 B: Oh, not that one.
@@ -6252,7 +6252,7 @@ The violin player sees Lucy.
 F: Hey! I told you I never wanted to see you here again!
 A: What did you do to that guy?!
 B: Don't ask.
-# 241. Late Fees
+## 241. Late Fees
 > Lily is standing at the librarian's desk in the library. She's trying to check out a book.
 A: I'm sorry, I can't let you check out this book. Your library card has been suspended.
 B: What?! My library card can't be suspended!
@@ -6277,7 +6277,7 @@ B: Argh!
 C: Can you ever forgive me?
 B: Ahhh. I guess so.
 C: Great. Because I need you to check out "Teenage Vampires In Love, Volume Three"!
-# 242. Painting at Sunrise
+## 242. Painting at Sunrise
 > Lin is painting in Oscar's studio.
 A: Ugh… My painting is boring.
 B: Well, sometimes you just need inspiration… and great light.
@@ -6313,7 +6313,7 @@ Lin shows Oscar the painting.
 B: You threw paint all over the canvas.
 A: Yes, I did.
 B: It's… magnificent! I love it!
-# 243. A Relaxing Weekend
+## 243. A Relaxing Weekend
 > Vikram's wife, Priti, has been working hard on a project for weeks.
 Vikram calls her at her office.
 A: Hi, Vikram! Am I late for lunch?
@@ -6349,7 +6349,7 @@ B: I'm sorry. This is the opposite of a relaxing vacation.
 A: But on the other hand, I haven't thought about my stressful job in hours.
 B: So, should we stay another night?
 A: Absolutely not.
-# 244. Nature Hike
+## 244. Nature Hike
 > Zari and Lily are hiking through the forest. Lily keeps looking at her phone.
 A: Why did you bring your phone? We should enjoy nature.
 B: I'm not going into the woods without my phone. It's too dangerous.
