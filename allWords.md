@@ -3447,13 +3447,22 @@ wound /wu:nd/ n.创伤，伤 vt.使受伤
 wrap /ræp/ vt.裹，包，捆 n.披肩
 wreck /rek/ n.失事;残骸 vt.破坏
 wrist /rist/ n.腕，腕关节
-X-ray /‘eks’rei/ n.X射线，X光
-yard /ja:d/ n.院子，庭院;场地
-yard /ja:d/ n.码
-yawn /jɔ:n/ vi.打呵欠 n.呵欠
-yearly /‘jə:li/ a.每年的 ad.一年一度
-yield /ji:ld/ vt.&vi.出产 n.产量
-youth /ju:θ/ n.青春;青年们;青年
+
+## x
+
+> X-ray /‘eks’rei/ n.X射线，X光
+
+## Y
+
+> yard /ja:d/ n.院子，庭院;场地
+> yard /ja:d/ n.码
+> yawn /jɔ:n/ vi.打呵欠 n.呵欠
+> yearly /‘jə:li/ a.每年的 ad.一年一度
+> yield /ji:ld/ vt.&vi.出产 n.产量
+> youth /ju:θ/ n.青春;青年们;青年
+
+## z
+
 zone /zəun/ n.地区，区域，范围
 
 # 2.文章
